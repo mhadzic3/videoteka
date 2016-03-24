@@ -1,0 +1,36 @@
+#login {
+	margin:auto auto;
+	text-align:center;
+	background-color:green;
+	width:300;
+	height:310;
+	border:10px groove blue;
+}
+
+#dugme{
+	background-color:blue;
+	border:5px groove green;
+	color:white;
+	font-weight:bold;
+	width:100;
+	height:50;
+}
+
+#login .kontrola{
+	background-color:blue;
+	color:white;
+	border:1px groove black;
+	padding:10px 10px;
+	margin: auto 20px auto 20px;
+}
+
+#naslov{
+	color:blue;
+	padding:10px 10px;
+	font-style:italic;
+	font-weight:bold;
+}
+
+#login .txt{
+	width:200;
+}

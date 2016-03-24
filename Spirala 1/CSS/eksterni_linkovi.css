@@ -1,0 +1,22 @@
+#linkovi{
+	margin:auto auto;
+	text-align:left;
+	font-size:25px;
+	list-style-type:none;
+}
+
+a{
+	background-color:blue;
+	color:white;
+	text-decoration:none;
+	padding:10px 10px;
+}
+
+.ikona{
+	padding: 0 0 0 25px;
+	margin:30px;
+}
+
+.ikona:hover{
+	background: url("SLIKE/ikona.jpg") no-repeat top left;
+}
