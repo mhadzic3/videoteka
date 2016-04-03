@@ -1,0 +1,25 @@
+#tabela{
+	border:1px solid black;
+	border-spacing:0;
+	text-align:center;
+	margin:auto;
+}
+
+#tabela td, th{
+	border:1px solid black;
+	width:100;
+	height:50;
+}
+
+#tabela th{
+	background-color:blue;
+	color:white;
+}
+
+#tabela .paran{
+	background-color:orange;
+}
+
+#tabela .neparan{
+	background-color:yellow;
+}
