@@ -1,0 +1,26 @@
+h1{
+	color:red;
+	text-align:center;
+	font-size:400%;
+	margin:30px;
+}
+
+body{
+	background-color:aqua;
+}
+
+#meni ul{
+	margin: 80px auto;
+    text-align:center;
+}
+
+#meni li{
+	display:inline;
+}
+
+#meni li a{
+	background-color:blue;
+	color:white;
+	padding: 10px 20px;
+	text-decoration:none;
+}
