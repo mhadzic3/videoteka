@@ -1,0 +1,39 @@
+#dodajNovost {
+	margin:auto auto;
+	text-align:center;
+	background-color:green;
+	
+	border:10px groove blue;
+	padding: 10px 10px;
+	width: 400;
+}
+
+#dugmeNovost{
+	float:center;
+	
+	background-color:orange;
+	color:black;
+	font-weight:bold;
+	
+	border:5px groove green;
+	padding: 10px 10px 10px 10px;
+}
+
+.kontrola{
+	background-color:blue;
+	color:white;
+	
+	border:1px groove black;
+	padding:10px 10px;
+}
+
+#naslov{
+	color:blue;
+	font-style:italic;
+	font-weight:bold;
+}
+
+.txt{
+	width:350;
+}
+
